@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding:0;
+}
+.page1clr{
+    display: flex;
+    background-color: rgb(1, 0, 0);
+    height: 615px;
+    width: 100%;
+    color: antiquewhite;
+    font-size: 40px;
+   
+
+}
+.page1{
+   
+  margin-top: 100px;
+  margin-left: 100px;
+  width: 500px;
+  
+    
+}
+.img1{
+    
+    margin-top: 0px;
+     width: 28vw; 
+    height: 100vh;
+    
+}
+.name{
+   color: rgba(252, 225, 21, 0.818); 
+   font-size: 50px;
+}
+.cont{
+   
+   font-size: 50px;
+}
+.contactme{
+    background-color: rgba(173, 173, 5, 0.668);
+    height: 70px;
+    width: 280px;
+    color: white;
+    border-radius: 1rem;
+}
+
+

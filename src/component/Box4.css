@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.portfolio{
+    background-color: rgb(1, 0, 0);
+    height: 615px;
+    width: 100%;
+    color: antiquewhite;
+    font-size: 40px;
+    justify-content: center;
+
+}
+.imgbox{
+    display: flex;
+    flex-direction: row;
+    gap: 100px;
+    /* margin-top: 100px; */
+    /* margin-right: -550px; */
+    justify-content: center;
+}
